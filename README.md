@@ -1,3 +1,6 @@
+- resources
+    - https://docs.google.com/presentation/d/1di6NmxfM3aPWVAqunnlmQNNxwRC0RdEe4b6APlelm7U/edit#slide=id.g2ef2700c02f_0_196
+
 # inference_serving
 
 ##  Quantization
